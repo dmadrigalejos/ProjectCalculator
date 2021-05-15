@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProjectCalculator\ProjectCalculator\bin\Debug\ProjectCalculator.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProjectCalculator\ProjectCalculator\obj\Debug\ProjectCalculator.pdb
